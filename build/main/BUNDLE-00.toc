@@ -1,0 +1,3 @@
+([('main',
+   '/Users/heynnerherrera/PycharmProjects/AhorroCalculador/dist/main',
+   'EXECUTABLE')],)
